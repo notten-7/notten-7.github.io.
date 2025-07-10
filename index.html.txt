@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Learn Java Programming</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #007396;
+      color: white;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #007396;
+    }
+    code {
+      background: #eee;
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #ddd;
+    }
+    .affiliate-btn {
+      display: inline-block;
+      background-color: #f57224;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .disclaimer {
+      font-size: 0.9em;
+      color: #555;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Learn Java Programming</h1>
+    <p>A beginner-friendly guide to coding in Java</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>🧠 What is Java?</h2>
+      <p>Java is a high-level, object-oriented programming language used for building web, mobile, and desktop applications. It is platform-independent and widely used in enterprise software.</p>
+    </section>
+
+    <section>
+      <h2>📦 Why Learn Java?</h2>
+      <ul>
+        <li>It's beginner-friendly and powerful.</li>
+        <li>Runs on all platforms (write once, run anywhere).</li>
+        <li>Used in Android apps, web development, and backend systems.</li>
+        <li>Huge community and support.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🔤 Basic Syntax</h2>
+      <p>Here's a simple Java program:</p>
+      <pre><code>public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}</code></pre>
+    </section>
+
+    <section>
+      <h2>📘 Common Java Topics</h2>
+      <ul>
+        <li>Variables and Data Types</li>
+        <li>Loops and Conditionals</li>
+        <li>Functions (Methods)</li>
+        <li>Object-Oriented Programming (OOP)</li>
+        <li>Arrays and Collections</li>
+        <li>File Handling</li>
+      </ul>
+    </section>
+
+    <!-- Amazon Affiliate -->
+    <section>
+      <h2>🎧 Best Headphones for Learning</h2>
+      <p>Need peace and focus while coding in Java? These highly rated headphones help block distractions and improve concentration during study or work:</p>
+      <a href="https://amzn.to/4lsYtQo" target="_blank" class="affiliate-btn">
+        🎧 Buy Recommended Headphones on Amazon
+      </a>
+      <p class="disclaimer"><em>As an Amazon Associate, I earn from qualifying purchases.</em></p>
+    </section>
+
+    <!-- Daraz Affiliate -->
+    <section>
+      <h2>🇳🇵 Daraz Deal: Wireless Bluetooth Headphones</h2>
+      <p>For visitors in Nepal: Get this affordable and stylish P9 wireless Bluetooth headphone on Daraz!</p>
+      <a href="https://www.daraz.com.np/products/p9-wireless-bluetooth-headphones-latest-with-stereo-headset-i164079325-s1212379934.html" target="_blank" class="affiliate-btn">
+        🎧 Buy P9 Headphones on Daraz Nepal
+      </a>
+      <p class="disclaimer"><em>This page contains Daraz affiliate links. I may earn a small commission at no extra cost to you.</em></p>
+    </section>
+
+    <section>
+      <h2>🌐 Resources to Learn More</h2>
+      <ul>
+        <li><a href="https://docs.oracle.com/javase/tutorial/" target="_blank">Official Java Tutorials</a></li>
+        <li><a href="https://www.w3schools.com/java/" target="_blank">W3Schools Java</a></li>
+        <li><a href="https://www.codecademy.com/learn/learn-java" target="_blank">Codecademy Java</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made by Pramisan Subedi | 2025</p>
+  </footer>
+
+</body>
+</html>
